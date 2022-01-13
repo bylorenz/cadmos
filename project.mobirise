@@ -36,7 +36,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-12-20_1826",
+    "name": "CADMOS",
     "versionFirst": "5.5.6",
     "siteFonts": [
       {
@@ -49,11 +49,26 @@
     "versionPublish": "5.5.8",
     "imageResize": false,
     "screenshot": "screenshot.png",
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+551837226739",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Olá!\n\nAgradecemos seu contato. Digite sua mensagem e responderemos o mais breve possível.\n\nCADMOS CONTABILIDADE\nRua Marechal Deodoro, 476\nANDRADINA-SP",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "",
+      "headerColor": "#39847a",
+      "headerTitle": "CADMOS CONTABILIDADE",
+      "placeholder": "digite aqui",
+      "zIndex": 10,
+      "enabled": true
+    },
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "qlmd1qrxjr",
+    "mbrsiteDomain": "kohg5kmlqx",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
